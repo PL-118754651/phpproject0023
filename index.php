@@ -2,7 +2,7 @@
        <title>Index Page</title>
         <style>
            body {
- background-image: url("consultancy.jpg");
+ background-image: url("Consultancy.jpg");
  
  
 }
